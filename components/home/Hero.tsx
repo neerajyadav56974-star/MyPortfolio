@@ -114,7 +114,7 @@ export default function Hero() {
                 href="/contact"
                 className="inline-flex items-center justify-center gap-2 px-6 sm:px-8 py-3 sm:py-4 glassmorphism text-white font-semibold rounded-full hover:bg-primary/20 transition-all duration-300 border border-primary/30 text-sm sm:text-base"
               >
-                Hire Me
+                Contact Us
               </Link>
             </MagneticButton>
           </motion.div>

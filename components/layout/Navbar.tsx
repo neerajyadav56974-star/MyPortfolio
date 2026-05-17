@@ -93,7 +93,7 @@ export default function Navbar() {
                 href="/contact"
                 className="hidden md:inline-block px-6 py-2 bg-primary text-black font-semibold rounded-full hover:shadow-lg hover:shadow-primary/50 transition-all duration-300"
               >
-                Hire Me
+                Contact Me
               </Link>
 
               {/* Mobile Menu Button */}
@@ -147,7 +147,7 @@ export default function Navbar() {
                     onClick={() => setIsOpen(false)}
                     className="inline-block px-8 py-3 bg-primary text-black font-semibold rounded-full hover:shadow-lg hover:shadow-primary/50 transition-all duration-300"
                   >
-                    Hire Me
+                    Contact Us
                   </Link>
                 </motion.div>
               </div>

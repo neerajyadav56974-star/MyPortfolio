@@ -7,7 +7,7 @@ import { Download, Award, Briefcase, Users, Code2, Sparkles, Star, CheckCircle2 
 const stats = [
   { icon: Briefcase, value: '3+', label: 'Years Experience', description: 'Industry expertise' },
   { icon: Award, value: '5+', label: 'Projects Completed', description: 'Successful deliveries' },
-  { icon: Users, value: '10+', label: 'Happy Clients', description: 'Worldwide' },
+  { icon: Users, value: '5+', label: 'Happy Clients', description: 'Worldwide' },
 ]
 
 const expertise = [
